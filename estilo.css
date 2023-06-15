@@ -101,7 +101,7 @@ section{
     letter-spacing: 4PX;
 }
 #myProgress {
-    width: 300px;
+    width: 280px;
     margin: auto;
     background:#1cff03;
     border: 2px solid #fff;
@@ -250,7 +250,7 @@ footer-basic {
         text-align: center;
     }
     #pantalla-inicio h2{
-        font-size: 45px;
+        font-size: 42px;
         text-shadow: 3px 3px 10px #000;
     }
 }
