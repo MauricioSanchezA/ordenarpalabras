@@ -245,9 +245,12 @@ footer-basic {
         margin-bottom: 5px;
     }
 
-
     #pantalla-inicio{
         width: 80%;
         text-align: center;
+    }
+    #pantalla-inicio h2{
+        font-size: 45px;
+        text-shadow: 3px 3px 10px #000;
     }
 }
