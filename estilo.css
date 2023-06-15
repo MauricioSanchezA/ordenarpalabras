@@ -217,8 +217,20 @@ footer-basic {
     margin-bottom:0;
   }
 
+  .footer-basic .copyright span{
+    margin-top:15px;
+    text-align:center;
+    font-size:18px;
+    color:#ffff0d;
+    margin-bottom:0;
+  }
+
   .footer-basic .copyright:hover {
     color: #1cff03;
+  }
+
+  .footer-basic .copyright span:hover{
+    color:#176aff;
   }
   
 @media screen and (max-width:1000px) {
